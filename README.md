@@ -1,3 +1,5 @@
-"# Mi Ejercicio Guia" 
-
-Versión con conexión desconexion
+# Ejercicio Guia de Sistemas Operativos  
+##  Tags:   
+    VersionInicial
+    VersionConNuevoServicio
+    VersionConConexionDesconexion
