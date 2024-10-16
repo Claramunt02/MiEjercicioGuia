@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\SO\\MiEjercicioGuia\\Reto1\\clienteEjercicioGuia\\",
+  "WorkspaceRootPath": "C:\\SO\\L3.3\\EjercicioGuiaSistemasOperativos\\clienteEjercicioGuia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|c:\\so\\miejercicioguia\\reto1\\clienteejercicioguia\\windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|solutionrelative:windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|c:\\so\\l3.3\\ejercicioguiasistemasoperativos\\clienteejercicioguia\\windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|solutionrelative:windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|C:\\SO\\MiEjercicioGuia\\Reto1\\clienteEjercicioGuia\\windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|solutionrelative:windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|c:\\so\\l3.3\\ejercicioguiasistemasoperativos\\clienteejercicioguia\\windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|solutionrelative:windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\SO\\MiEjercicioGuia\\Reto1\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs",
+              "DocumentMoniker": "C:\\SO\\L3.3\\EjercicioGuiaSistemasOperativos\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form1.cs",
-              "ToolTip": "C:\\SO\\MiEjercicioGuia\\Reto1\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs",
-              "RelativeToolTip": "WindowsFormsApplication1\\Form1.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAAAGwAAAAQAAAAAAAAAA==",
+              "ToolTip": "C:\\SO\\L3.3\\EjercicioGuiaSistemasOperativos\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs*",
+              "RelativeToolTip": "WindowsFormsApplication1\\Form1.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAlwCAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T11:52:27.773Z",
+              "WhenOpened": "2024-10-16T19:32:13.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\SO\\MiEjercicioGuia\\Reto1\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs",
+              "DocumentMoniker": "C:\\SO\\L3.3\\EjercicioGuiaSistemasOperativos\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form1.cs",
-              "ToolTip": "C:\\SO\\MiEjercicioGuia\\Reto1\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "WindowsFormsApplication1\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\SO\\L3.3\\EjercicioGuiaSistemasOperativos\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "WindowsFormsApplication1\\Form1.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T11:52:12.187Z",
+              "WhenOpened": "2024-10-16T19:31:48.178Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
